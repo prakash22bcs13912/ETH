@@ -47,7 +47,7 @@ Click on the "Solidity Compiler" tab in the left-hand sidebar.
 Make sure the "Compiler" option is set to 0.8.18 (or another compatible version), and then click on the "Compile MyToken.sol" button.
 
 ## Authors
-Vikash Singh
+Gopavaram Jayaprakash Reddy
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
