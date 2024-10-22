@@ -8,8 +8,8 @@ MyToken is an Ethereum-based smart contract written using Solidity programming l
 
 ### Public Variables
 
-- `TokenName`: The name of the token, here used as "MAHAJAN".
-- `TokenAbr`: The abbreviation of the token, here used as "MHN".
+- `TokenName`: The name of the token, here used as "JAY".
+- `TokenAbr`: The abbreviation of the token, here used as "JP".
 - `TokenSupply`: The total supply of the token, by default set to 0.
 
 ### Mapping
@@ -77,7 +77,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Authors
 
-Sujal Mahajan
+Gopavaram Jayaprakash Reddy
 
 ## Contributing
 
